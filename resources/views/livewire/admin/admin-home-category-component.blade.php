@@ -33,7 +33,7 @@
                                 </label>
                                 <div class="col-md-4">
                                     <input type="text" class="form-control input-md" wire:model="numberofproducts"/>
-                                </div>
+                                </div> 
                             </div>
 
                             <div class="form-group">
